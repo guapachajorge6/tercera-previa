@@ -1,7 +1,0 @@
-fernando andres mesa 
-jorge eliecer tonuzco
-
-link de arrays 1 y 2
-
-https://repl.it/@FernandoMesa/arrays01#index.html
-https://repl.it/@FernandoMesa/ARRAY02#index.html
